@@ -479,8 +479,13 @@ td{color:#fff}
  	width: 10vh;
  }
 
- #bgimg{
-	 width: 100vh;
-	 height: 100vh;
-	 position: fixed;
+ .witlogo_nav{
+	 width:6.2vh;
+	 height:10vh;
+	margin-right:100px;
+ }
+ @media (max-width:992px)
+ {
+	 .witlogo_nav_display{display: none;}
+
  }

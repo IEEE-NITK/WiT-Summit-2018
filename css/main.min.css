@@ -42,9 +42,9 @@ h1,h2,h3,h4,h5,h6{
 }
 
 #bg{
-	position:absolute;top:0;left:0;
-	min-width:100%;
-	min-height:100%
+	position: fixed;
+	width: 100vh;
+	top:0;left:0;
 }
 
 #bg img{

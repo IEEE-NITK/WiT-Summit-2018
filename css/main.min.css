@@ -545,9 +545,9 @@ td{
 .namecon{
 	font-size: 30px;
 }
-.gotomiddle{
-	text-align: center;
-	font-size:4vw;
+.marginleft{
+	margin-left: 5.5cm;
+	font-size: 2em;
 }
 .consection{
 	font-family: Arial;

@@ -538,16 +538,18 @@ td{
 
 
 .contactus{
-	margin-left: 6.8vw;
+	
 	color:white;
-	margin-top:-20px
+	margin-top:-12px
 }
 .namecon{
 	font-size: 30px;
-	margin-left: 6.8vw;
-	
+}
+.gotomiddle{
+	text-align: center;
+	font-size:4vw;
+}
+.consection{
+	font-family: Arial;
 }
 
-.consection{
-	background-image: linear-gradient(to right,#C86B98,#280F37 20%,#632B6C,#280F37) 
-}

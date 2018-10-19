@@ -329,6 +329,7 @@ header.masthead p{
 	background:linear-gradient(270deg,rgba(255, 255, 255, 0) 0,#C86B98 100%);
 	padding:64px 0
 }
+
 #map{height:100%}
 @media (max-width:991px){
 	#map{height:400px;margin-top:32px}
@@ -533,4 +534,20 @@ td{
 	.witlogo_nav_display{
 		display: none;
 	}
+}
+
+
+.contactus{
+	margin-left: 6.8vw;
+	color:white;
+	margin-top:-20px
+}
+.namecon{
+	font-size: 30px;
+	margin-left: 6.8vw;
+	
+}
+
+.consection{
+	background-image: linear-gradient(to right,#C86B98,#280F37 20%,#632B6C,#280F37) 
 }

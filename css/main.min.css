@@ -329,6 +329,7 @@ header.masthead p{
 	background:linear-gradient(270deg,rgba(255, 255, 255, 0) 0,#C86B98 100%);
 	padding:64px 0
 }
+
 #map{height:100%}
 @media (max-width:991px){
 	#map{height:400px;margin-top:32px}
@@ -534,3 +535,18 @@ td{
 		display: none;
 	}
 }
+
+@media(max-width:768px){
+.sizegreater{
+	display:none;
+}
+}
+
+
+@media(min-width:768px){
+	.sizeless{
+		display:none;
+	}
+	}
+
+

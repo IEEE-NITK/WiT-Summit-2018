@@ -415,6 +415,48 @@ h2{font-size:3rem}
 	box-shadow:0 0 0 .2rem #fff!important
 }
 
+.teamfac-card{
+	border:none;
+	margin:1rem 0
+}
+
+.teamfac-card:hover .teamfac-card-header{
+	background:#C86B98!important
+}
+
+.teamfac-card-img-top{
+	height:300px;
+	width:80%;
+	object-fit:cover
+}
+
+.teamfac-card-body{
+	background:#632B6C;
+	width: 80%; 
+}
+
+.teamfac-card-header{
+	color:#fff;
+	text-align:center;
+	padding:1.2rem 0 .8rem 0
+}
+
+.teamfac-card-header:first-child{
+	border-radius:0
+}
+
+.teamfac-card-header h5{
+	font-weight:700
+}
+
+.teamfac-card-header h5,.teamfac-card-header p{
+	font-size:1rem
+}
+
+.teamfac-card-header p{
+	margin-bottom:0
+}
+
 .speaker-card{
 	border:none;
 	margin:1rem 0

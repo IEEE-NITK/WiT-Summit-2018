@@ -376,6 +376,7 @@ h2{font-size:3rem}
 	font-weight:700;
 	text-transform:uppercase;
 	border:none;
+	display: inline-block;
 	padding:16px 56px!important;
 	border-radius:2px;
 	font-family:Avenir,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif

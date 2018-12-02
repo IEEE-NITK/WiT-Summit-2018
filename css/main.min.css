@@ -591,9 +591,31 @@ td{
 @media(min-width:768px){
 	.sizeless{
 		display:none;
-	}
-	}
+}
+}
 .makewhite{
 	color: white;
 }
 
+.nitklogo{
+	height:7vw;
+	width:7vw;
+}
+.ieeenitklogo{
+	width:13.5vw;
+	height:9vw;
+	
+}
+
+@media(max-width:768px){
+	.nitklogo{
+		height:60px;
+	width:60px;
+}
+
+.ieeenitklogo{
+	width:75px;
+	height:50px;
+	
+}
+}

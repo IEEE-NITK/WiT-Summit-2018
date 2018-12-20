@@ -127,7 +127,7 @@ section{
 }
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link,#mainNav .navbar-nav>li.nav-item>a.nav-link:focus{
-	font-size:0.9rem;
+	font-size:0.83rem;
 	font-weight:500;
 	color:#ffffff
 }
